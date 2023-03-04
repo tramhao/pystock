@@ -3,7 +3,7 @@ import pgzrun
 
 WIDTH = 1300
 HEIGHT = 600
-NUM = 3
+NUM = 5
 balls = []
 for i in range(NUM):
     ball = Actor("ball")
